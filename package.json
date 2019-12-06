@@ -1,7 +1,7 @@
 {
-  "name": "website-portfolio",
-  "version": "0.1.0",
-  "homepage": "http://nilay.sondagar.com/new",
+  "name": "react-website-portfolio",
+  "version": "1.0.0",
+  "homepage": "http://nilay.sondagar.com",
   "private": true,
   "dependencies": {
     "@babel/core": "7.4.3",

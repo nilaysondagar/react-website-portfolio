@@ -11,7 +11,7 @@ export const EXPERIENCES = [
     location: "University of Victoria",
     date: "2017 - Present",
     points: [
-      "8.31 GPA (out of 9.0)",
+      "8.22 GPA (out of 9.0)",
       "Winner of UVic's Google Games competition",
       "Placed within the top 10% of CSC110 and CSC115 students with final grades of 94% and 93% respectively"
     ]
