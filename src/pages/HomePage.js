@@ -61,8 +61,9 @@ export class HomePage extends Component {
               <a 
                 key={extLink.alt}  
                 href={extLink.link} 
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
+                download={extLink.downloadable && extLink.alt}
               >
                 <GrowingCircleSmall
                   pose={imageClassNames}
