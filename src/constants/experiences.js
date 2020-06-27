@@ -1,4 +1,5 @@
 import circleUvic from '../assets/images/experiences/circleuvic.png';
+import circleFispan from '../assets/images/experiences/circlefispan.png';
 import circleFreshworks from '../assets/images/experiences/circlefreshworks.png';
 import circlePharmacy from '../assets/images/experiences/circlepharmacy.png';
 import circleDirectorOfIt from '../assets/images/experiences/circledirectorofit.png';
@@ -17,10 +18,21 @@ export const EXPERIENCES = [
     ]
   },
   {
+    image: circleFispan,
+    title: "Frontend Software Developer",
+    location: "FI.SPAN ",
+    date: "2020",
+    points: [
+      "Created webpages using ReactJS, Spring Boot, and functional & reactive programming paradigms",
+      "Modified websites to meet accessibility regulations stated by WCAG2.1",
+      "Updated documentation, created onboarding guides, and modularized code as NPM modules"
+    ]
+  },
+  {
     image: circleFreshworks,
     title: "Junior Full Stack Developer",
     location: "FreshWorks Studio (Victoria)",
-    date: "2019 - Present",
+    date: "2019 - 2020",
     points: [
       "Created websites and APIs using ReactJS, TypeScript, NestJS and Redux",
       "Worked in teams using an agile methodology, while utilizing project tracking with JIRA",
