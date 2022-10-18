@@ -180,7 +180,7 @@
       font-size: calc(12px + 0.25vmax);
       text-decoration: none;
       align-self: flex-end;
-      padding: calc(10px + 0.25vw) + calc(15px + 0.25vw);
+      padding: calc(calc(10px + 0.25vw) + calc(15px + 0.25vw));
       margin-top: auto;
       background-color: $red-color;
       border-radius: 10px;
@@ -266,7 +266,7 @@
       font-size: calc(12px + 0.25vmax);
       text-decoration: none;
       align-self: flex-end;
-      padding: calc(10px + 0.25vw) + calc(15px + 0.25vw);
+      padding: calc(calc(10px + 0.25vw) + calc(15px + 0.25vw));
       margin-top: auto;
       background-color: $green-color;
       border-radius: 10px;
